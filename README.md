@@ -17,7 +17,7 @@
 ソースコード：[keiba_scraping.py](https://github.com/Takumi-Fukuzawa/dstokuron_kadai1/blob/main/keiba_scraping.py/)  
 取得データ　：[25y0005_races.csv](https://github.com/Takumi-Fukuzawa/dstokuron_kadai1/blob/main/25y0005_races.csv)  
 
-## 📢 免責事項  
+#### 📢 免責事項  
 
 ##### データの正確性について  
 本レポジトリで使用しているデータは、収集時点の情報に基づいており、完全な正確性を保証するものではありません。  
